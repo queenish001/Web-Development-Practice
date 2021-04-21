@@ -1,13 +1,17 @@
-# Web-Development-Practice
+# Coursera Web Development Course, JHU
+## By Yaakov Chaikin
+### Johns Hopkins University
+------------------------------------------------------------------------------------------------------------
 
-I've recently started learning Web Development. 
-Here I will upload my Web Development Journey Progress. :)
+This repository contains my Assignment Solutions for the course:-
+# HTML, CSS, JavaScript for Web Developers by Yaakov Chaikin, Johns Hopkins University on Coursera.
+
+------------------------------------------------------------------------------------------------------------
 
 * MODULE 2 SOLUTION: https://queenish001.github.io/Web-Development-Practice/Module2/index.html
 * MODULE 3 SOLUTION:
 * MODULE 4 SOLUTION: 
 * MODULE 5 SOLUTION:
-
 
 -----------------------------------------------------------------------------------------------------------
 
