@@ -4,11 +4,11 @@
 ------------------------------------------------------------------------------------------------------------
 
 This repository contains my Assignment Solutions for the course:-
-# HTML, CSS, JavaScript for Web Developers by Yaakov Chaikin, Johns Hopkins University on Coursera.
+### HTML, CSS, JavaScript for Web Developers by Yaakov Chaikin, Johns Hopkins University on Coursera.
 
 ------------------------------------------------------------------------------------------------------------
 
-* MODULE 2 SOLUTION: https://queenish001.github.io/Web-Development-Practice/Module2/index.html
+* MODULE 2 SOLUTION: 
 * MODULE 3 SOLUTION:
 * MODULE 4 SOLUTION: 
 * MODULE 5 SOLUTION:
