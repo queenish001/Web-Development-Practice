@@ -1,6 +1,6 @@
 body{
     box-sizing: border-box;
-    background-image: url("/css/restaurant.jpg");
+    background-image: url("restaurant.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 
