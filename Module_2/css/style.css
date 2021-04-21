@@ -1,0 +1,99 @@
+body{
+    box-sizing: border-box;
+    /* Setting Background Image */
+    background-image: url("/restaurant.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    /* fonts */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    color: black;
+}
+h1{ 
+    margin: 90px;
+    font-size: 300%;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+div{
+    background-color: white;
+    opacity: 0.8;
+    border: 2px solid black;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    width: 30%;
+    margin: 12px;
+    font-weight: bold;
+    overflow: auto;
+}
+#chicken{
+    float: left;
+}
+#beef{
+    float: left;
+}
+#sushi{
+    float: left;
+}
+h3{
+    box-sizing: border-box;
+    float: right;
+    color: white;
+    margin-top: 0px;
+    border-left: 2px solid black;
+    border-bottom: 2px solid black;
+    padding: 4px;
+}
+#a{
+    background-color: #ff8888;
+}
+#b{
+    background-color: #801919;
+}
+#c{
+    background-color: #ff7922;
+}
+p{                   /* Seperating the para lines and H3 on different*/
+    clear: right;
+    padding: 4px;
+    text-align: center;
+}
+
+@media (min-width: 768px) and (max-width: 991px){
+    div{
+        float: left;
+        margin: 12px;
+    }
+    #chicken{
+        float: left;
+        width: 46%;
+    }
+    #beef{
+        float: right;
+        clear: none;
+        width: 46%;
+    }
+    #sushi{
+        width: 97%;
+        /* float: center; */
+    }
+}
+
+@media (max-width: 767px){
+    .div{
+        float: center;
+    }
+    #chicken{
+        width: 95%;
+    }
+    #beef{
+    
+        width: 95%;
+    }
+    #sushi{
+        width: 95%;
+        
+    }
+}
