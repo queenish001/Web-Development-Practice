@@ -8,7 +8,7 @@ This repository contains my Assignment Solutions for the course:-
 
 ------------------------------------------------------------------------------------------------------------
 
-* MODULE 2 SOLUTION: 
+* MODULE 2 SOLUTION: https://queenish001.github.io/Coursera-WebDev-JHU/Module2/
 * MODULE 3 SOLUTION:
 * MODULE 4 SOLUTION: 
 * MODULE 5 SOLUTION:
