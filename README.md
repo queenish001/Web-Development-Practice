@@ -16,23 +16,23 @@ This repository contains my Assignment Solutions for the course:-
 -----------------------------------------------------------------------------------------------------------
 
 
-Something Resources: 
-https://jsfiddle.net/ 
+Some Resources: 
+* https://jsfiddle.net/ 
    for easy sharing of code
    
-https://codepen.io/
+* https://codepen.io/
 for finding amazing pens
 
-https://twitter.com/Prathkum 
+* https://twitter.com/Prathkum 
 follow for guidance
 
-https://dev.to/ 
+* https://dev.to/ 
 dev community
 
-https://css-tricks.com/ 
+* https://css-tricks.com/ 
 for reading
 
-https://caniuse.com/ 
+* https://caniuse.com/ 
 to catch up with the updates in html, css, javascript standards
 
 
