@@ -3,7 +3,7 @@
 I've recently started learning Web Development. 
 Here I will upload my Web Development Journey Progress. :)
 
-MODULE 2 SOLUTION: https://queenish001.github.io/Web-Development-Practice/Module2/index.html
+* MODULE 2 SOLUTION: https://queenish001.github.io/Web-Development-Practice/Module2/index.html
 
 Check it out: https://queenish001.github.io/Web-Development-Practice/
 
