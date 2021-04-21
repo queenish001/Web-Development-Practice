@@ -1,4 +1,4 @@
-# Coursera Web Development Course, JHU
+# Coursera - Web Development Course - JHU
 ## By Yaakov Chaikin
 ### Johns Hopkins University
 ------------------------------------------------------------------------------------------------------------
