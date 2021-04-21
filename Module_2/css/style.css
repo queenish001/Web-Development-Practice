@@ -20,7 +20,7 @@ h1{
 div{
     background-color: white;
     opacity: 0.8;
-    border: 2px solid black;
+    border: 1px solid black;
     border-top-left-radius: 20px;
     border-bottom-right-radius: 20px;
     width: 30%;
@@ -42,8 +42,8 @@ h3{
     float: right;
     color: white;
     margin-top: 0px;
-    border-left: 2px solid black;
-    border-bottom: 2px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
     padding: 4px;
 }
 #a{
