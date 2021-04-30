@@ -16,7 +16,9 @@ This repository contains my Assignment Solutions for the course:-
 -----------------------------------------------------------------------------------------------------------
 
 Practice Uploads:-
+* My Basic Website: https://queenish001.github.io/Coursera-WebDev-JHU/Practice_Uploads/MyBasicWebsite
 * Zen Yoga Website: https://queenish001.github.io/Coursera-WebDev-JHU/Practice_Uploads/Yoga_Website/
+
 
 Some Resources: 
 * https://jsfiddle.net/ 
