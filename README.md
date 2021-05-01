@@ -3,6 +3,7 @@ Practice Uploads:-
 * Basic Responsive Website: https://queenish001.github.io/Web-Development/Practice_Uploads/basicResponsive/
 * Zen Yoga Website: https://queenish001.github.io/Web-Development/Practice_Uploads/Yoga_Website/
 
+--------------------------------------------------------------------------------------------------------------------------------------
 
 Some Resources: 
 * https://jsfiddle.net/ 
