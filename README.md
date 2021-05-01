@@ -1,6 +1,6 @@
 Practice Uploads:-
-* My Basic Website: https://queenish001.github.io/Coursera-WebDev-JHU/Practice_Uploads/myBasicWebsite
-* Zen Yoga Website: https://queenish001.github.io/Coursera-WebDev-JHU/Practice_Uploads/Yoga_Website/
+* My Basic Website: https://queenish001.github.io/Web-Development/Practice_Uploads/myBasicWebsite
+* Zen Yoga Website: https://queenish001.github.io/Web-Development/Practice_Uploads/Yoga_Website/
 
 
 Some Resources: 
