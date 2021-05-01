@@ -1,5 +1,6 @@
 Practice Uploads:-
 * My Basic Website: https://queenish001.github.io/Web-Development/Practice_Uploads/myBasicWebsite
+* Basic Responsive Website: https://queenish001.github.io/Web-Development/Practice_Uploads/basicResponsive/
 * Zen Yoga Website: https://queenish001.github.io/Web-Development/Practice_Uploads/Yoga_Website/
 
 
