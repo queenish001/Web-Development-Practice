@@ -1,8 +1,8 @@
 Practice Uploads:-
-* My Basic Website: https://queenish001.github.io/Web-Development/Practice_Uploads/myBasicWebsite/
+* My Basic Website: https://queenish001.github.io/Web-Development/Practice_Uploads/myBasicWebsite/myBasicWebsite.html/
 * Basic Responsive Website: https://queenish001.github.io/Web-Development/Practice_Uploads/basicResponsive/
 * Zen Yoga Website: https://queenish001.github.io/Web-Development/Practice_Uploads/Yoga_Website/
-* Basic Digital Clock: https://queenish001.github.io/Web-Development/Practice_Uploads/basicClock/
+* Basic Digital Clock: https://queenish001.github.io/Web-Development/Practice_Uploads/basicClock/basicClock.html/
 --------------------------------------------------------------------------------------------------------------------------------------
 
 Some Resources: 
