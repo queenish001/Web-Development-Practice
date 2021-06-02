@@ -1,7 +1,7 @@
 Check out my Practice Uploads:-
 
 *Screenshots provided in folders corresponding to the folder-name*
-## Self Practice:-
+## Practice:-
 * Website Displaying Top Youtube Channels in Cards using ReactJS
 * My Basic Website
 * Basic Responsive Website
