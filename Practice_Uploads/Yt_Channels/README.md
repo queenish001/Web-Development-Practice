@@ -1,4 +1,4 @@
-* I made this Website using ReactJS.
+* Website made using ReactJS.
 * Some Programming YT Channels, along with a button to open their YT Channel link, are displayed here in Card Format.
 
 * Have a Look!
