@@ -10,7 +10,7 @@ Check out my Practice Uploads:-
 * Basic Digital Clock
 --------------------------------------------------------------------------------------------------------------------------------------
 
-Some Resources: 
+## Some Resources: 
 * https://jsfiddle.net/ 
    for easy sharing of code
    
